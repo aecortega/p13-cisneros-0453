@@ -20,7 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 
   ## Resultados
 
-![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/98d4f7fa-b72c-4c93-81b9-3689657805a1)
-![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/3a874bfc-01b2-489b-aeeb-614381648c2d)
-![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/a7aecc54-a3bf-4d3f-890f-d487239f3000)
+![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/1af15561-3ec2-4fa4-881f-1a4d2d630f7d)
+
+![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/268200bc-37bf-4413-83a6-959468914d1e)
+![image](https://github.com/aecortega/p13-cisneros-0453/assets/143548446/63970f37-96c7-445e-8e9f-4729f84a46af)
+
 
